@@ -1,0 +1,32 @@
+  help  				      Show this help
+  version				      Show camera and gimbal version
+  take_picture  			      Take a picture to SD card
+  toggle_recording			      Toggle start/stop video recording to SD card
+  gimbal neutral			      Set gimbal forward
+  gimbal angle <pitch_value>  <yaw_value>     Set gimbal pitch yaw (in degrees, negative is down)
+  zoom <option> 			      Use zoom
+    Options:
+      - in (to start zooming in)
+      - out (to start zooming out)
+      - stop (to stop zooming)
+      - <factor> (1.0 to 30.0)
+
+  get <stream|recording> settings	      Show all settings for stream or recording
+
+  set <stream|recording> resolution <option>  Set stream resolution
+    Options:
+      - 720  (for 1280x720)
+      - 1080 (for 1920x1080)
+      - 1440 (for 2560x1440, recording only)
+      - 1920 (for 3840x1920, recording only)
+  set <stream|recording> bitrate <option>     Set stream bitrate
+    Options:
+      - 1m (for 1.5 Mbps, only available at 1280x720)
+      - 2m (for 2 Mbps)
+      - 3m (for 3 Mbps)
+      - 4m (for 4 Mbps)
+  set <stream|recording> codec <option>       Set stream codec
+    Options:
+      - h264 (for H264)
+      - h265 (for H265/HVEC)
+
