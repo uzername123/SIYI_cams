@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/camera_manager.dir/camera_manager.cpp.o -o camera_manager  -lMAVSDK::mavsdk libsiyi.a -lstdc++fs 

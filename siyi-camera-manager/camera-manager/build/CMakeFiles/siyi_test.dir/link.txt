@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/siyi_test.dir/siyi_test.cpp.o -o siyi_test  libsiyi.a 

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/siyi_cli.dir/siyi_cli.cpp.o -o siyi_cli  libsiyi.a 
