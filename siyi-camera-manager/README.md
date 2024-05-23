@@ -1,5 +1,11 @@
 # SIYI A8 mini and ZR30 camera manager
 
+!!!!!
+
+# For camera CLI only cd to camera_manager and build 
+
+!!!!
+
 Camera Manager for SIYI A8 mini for RPi based on MAVSDK.
 
 ## Prerequisites
