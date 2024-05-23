@@ -1,4 +1,4 @@
-# SIYI A8 mini camera manager
+# SIYI A8 mini and ZR30 camera manager
 
 Camera Manager for SIYI A8 mini for RPi based on MAVSDK.
 
