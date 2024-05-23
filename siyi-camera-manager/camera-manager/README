@@ -1,3 +1,5 @@
+UZAGE:
+
   help  				      Show this help
   version				      Show camera and gimbal version
   take_picture  			      Take a picture to SD card
@@ -30,3 +32,6 @@
       - h264 (for H264)
       - h265 (for H265/HVEC)
 
+COMPILE:
+cd build
+make
